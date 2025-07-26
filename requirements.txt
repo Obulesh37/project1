@@ -1,5 +1,5 @@
 pymupdf
-google.generativeal
+google.generativeai
 python
 django
 gunicorn
