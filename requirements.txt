@@ -1,6 +1,5 @@
+pymupdf
+google.generativeal
 python
 django
 gunicorn
-html
-css
-js
